@@ -9,13 +9,10 @@
  - 📦 I love to crack algorithmic problems and I'm also in good in front end developing.
 
 ### *Connect with me:*
-[<img align="left" alt="Omprakash | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />]
-[<img align="left" alt="Omprakash | medium" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" />]
-[<img align="left" alt="Omprakash | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />]
-[<img align="left" alt="Omprakash | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />]
+< a href="https://www.linkedin.com/in/hanish-kumar-49b165190"<img align="left" alt="Omprakash | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" /> </a>
+<a href="https://wa.me/qr/JKBBG5MKGTVSB1 "<img align="left" alt="Omprakash | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" /> </a>
+<a href ="href="mailto:hanishk602@gmail.com><img align="left" alt="Omprakash | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" /></a>
 <br />
-
----
 
 ### Languages and Tools:
 
