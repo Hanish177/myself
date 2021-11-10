@@ -9,10 +9,10 @@
  - 📦 I love to crack algorithmic problems and I'm also in good in front end developing.
 
 ### *Connect with me:*
-[<img align="left" alt="Omprakash | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
-[<img align="left" alt="Omprakash | medium" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" />][Medium]
-[<img align="left" alt="Omprakash | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />][whatsapp]
-[<img align="left" alt="Omprakash | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
+[<img align="left" alt="Omprakash | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />]
+[<img align="left" alt="Omprakash | medium" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" />]
+[<img align="left" alt="Omprakash | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />]
+[<img align="left" alt="Omprakash | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />]
 <br />
 
 ---
@@ -34,4 +34,4 @@
 [<code>
 <img alt="Html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
+
